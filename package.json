@@ -1,0 +1,15 @@
+{
+  "name": "binded_account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Create_Account.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
